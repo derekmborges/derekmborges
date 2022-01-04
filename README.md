@@ -4,7 +4,7 @@
 
 - 💻 I'm currently working as a Senior Full Stack Engineer in the Defense industry
 
-- 🌱 I’m currently learning algorithmic trading with Python
+- 🌱 I’m currently learning algorithmic stock/crypto trading
 
 - 👯 I'm looking to collaborate with other devs on side projects
 
