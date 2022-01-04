@@ -38,7 +38,9 @@
 
 ---
 
-<img align="left" alt="derekmborges' Github Stats" src="https://github-readme-stats.vercel.app/api?username=derekmborges&show_icons=true&hide_border=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=derekmborges&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derekmborges)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
