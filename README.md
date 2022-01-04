@@ -34,6 +34,8 @@
 [<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />][docker]
 [<img align="left" alt="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg" />][kubernetes]
 
+<br />
+
 ---
 
 <img align="left" alt="derekmborges' Github Stats" src="https://github-readme-stats.vercel.app/api?username=derekmborges&show_icons=true&hide_border=true" />
