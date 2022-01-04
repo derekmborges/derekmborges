@@ -40,7 +40,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=derekmborges&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derekmborges&hide_border=true&hide=elixir)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derekmborges&hide_border=true&hide=elixir&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/derek-borges
 [hackerrank]: https://www.hackerrank.com/derek_m_borges
