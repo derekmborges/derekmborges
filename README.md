@@ -1,10 +1,54 @@
-- 👋 Hi, I’m @derekmborges
-- 👀 I’m interested in everything software
-- 🌱 I’m currently learning algorithmic trading with Python
-- 💞️ I’m looking to collaborate on startup applications of any kind
-- 📫 How to reach me: DM me on Discord @MetaDADa#3837
+### Hi there, I'm Derek 👋
 
-<!---
-derekmborges/derekmborges is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## I'm a Husband, Father, Developer, and Mentor!
+
+- 💻 I'm currently working as a Senior Full Stack Engineer in the Defense industry
+
+- 🌱 I’m currently learning algorithmic trading with Python
+
+- 👯 I'm looking to collaborate with other devs on side projects
+
+- 🥅 2022 Goals: Contribute more to Open Source projects
+
+- ⚡ Fun fact: I love to play piano
+
+### Connect with me:
+
+[<img align="left" alt="derekmborges | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="derekmborges | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
+
+<br />
+
+### Languages and Tools:
+[<img align="left" alt="HTLM5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />][html5]
+[<img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />][css]
+[<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />][scss]
+[<img align="left" alt="Javascript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />][javascript]
+[<img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/typescript.svg" />][typescript]
+[<img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />][angular]
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][react]
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" />][nodejs]
+[<img align="left" alt="Postgres" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />][postgres]
+[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mongodb.svg" />][mongodb]
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />][python]
+[<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />][docker]
+[<img align="left" alt="Kubernetes" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg" />][kubernetes]
+
+<br />
+<br />
+
+[linkedin]: https://www.linkedin.com/in/derek-borges
+[hackerrank]: https://www.hackerrank.com/derek_m_borges
+[html5]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
+[css]: https://www.tutorialrepublic.com/css-tutorial
+[sass]: https://sass-lang.com
+[javascript]: https://www.javascript.com
+[typescript]: https://www.typescriptlang.org
+[angular]: https://angular.io
+[react]: https://reactjs.org
+[nodejs]: https://nodejs.org
+[postgres]: https://www.postgresql.org
+[mongodb]: https://www.mongodb.com
+[python]: https://www.python.org
+[docker]: https://www.docker.com
+[kubernetes]: https://kubernetes.io
