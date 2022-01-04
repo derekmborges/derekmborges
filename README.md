@@ -42,9 +42,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derekmborges&hide_border=true&hide=elixir)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
-<br />
-
 [linkedin]: https://www.linkedin.com/in/derek-borges
 [hackerrank]: https://www.hackerrank.com/derek_m_borges
 [html5]: https://developer.mozilla.org/en-US/docs/Glossary/HTML5
