@@ -20,7 +20,7 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="HTLM5" width="26px" src="https://raw.githubusercontent.com/github/explore/" />][html5]
+[<img align="left" alt="HTLM5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />][html5]
 [<img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />][css]
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sass.svg" />][sass]
 [<img align="left" alt="Javascript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />][javascript]
