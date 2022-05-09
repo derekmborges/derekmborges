@@ -2,7 +2,7 @@
 
 ## I'm a Husband, Father, Developer, and Mentor!
 
-- 💻 I'm currently working as a Senior Full Stack Engineer in the Defense industry
+- 💻 I'm currently working as a Senior Software Engineer in the Cyber industry
 
 - 🌱 I’m currently learning algorithmic stock/crypto trading
 
