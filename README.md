@@ -4,11 +4,11 @@
 
 - 💻 I'm currently working as a Senior Software Engineer in the Cyber industry
 
-- 🌱 I’m currently learning algorithmic stock/crypto trading
+- 🌱 I’m currently learning 
 
 - 👯 I'm looking to collaborate with other devs on side projects
 
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 - ⚡ Fun fact: I love to play piano and ping pong
 
