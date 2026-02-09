@@ -1,14 +1,14 @@
-### Hi there, I'm Derek 👋
+### Hey there!
 
 ## I'm a Husband, Father, Developer, and Mentor!
 
 - 💻 I'm currently working as a Senior Software Engineer in the Cyber industry
 
-- 🌱 I’m currently refining my React Native skills
+- 🌱 I’m currently learning Supabase as a backend option
 
-- 👯 I'm looking to collaborate with other devs on side projects
+- 👯 I'm working on a side project in the event management industry
 
-- 🥅 2025 Goals: Contribute more to Open Source projects
+- 🥅 2026 Goals: Master AI productivity vs quality balance
 
 - ⚡ Fun fact: I love to play piano and ping pong
 
